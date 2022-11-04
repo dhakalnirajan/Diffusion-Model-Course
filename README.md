@@ -1,1 +1,1 @@
-# Huggingface-Diffusion-Models-Class
+# Huggingface Diffusion Model Class
