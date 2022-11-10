@@ -1,6 +1,6 @@
 # Diffusion Model Course by Huggingface
 
-<a href = "https://huggingface.co"><img src="https://user-images.githubusercontent.com/101518890/200024774-1d249e8e-e661-4523-bd39-dc8f2c1833d4.png" alt="Hugging Face Logo" height = "100" width = "100"></a> (Click the image to see something magic! :eyes:)
+<a href = "https://huggingface.co"><img src="https://user-images.githubusercontent.com/101518890/200024774-1d249e8e-e661-4523-bd39-dc8f2c1833d4.png" alt="Hugging Face Logo" height = "100" width = "100"></a> (Click the image to see some magic! :eyes:)
 
 ## About Huggingface and this course:
   Huggingface is an AI community on a mission to democratize machine learning models. They open-source AI by providing a one-stop-shop of resources, ranging from models (+30k), datasets (+5k), ML demos (+2k) and libraries. You can deploy your model to open-source it on huggingface, or you can release Dataset you have prepared.
