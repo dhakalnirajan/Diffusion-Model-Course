@@ -7,7 +7,7 @@
 
   This course aims to teach the impact of Generative Adversarial Network(GAN) and understand how they work on very basic level.This course was launched by <a href = "https://huggingface.co">Huggingface</a> and <a href = "https://linkedin.com/in/lewis-tunstall"> Lewis Tunstall </a>. The course is absolutely free. The course will consist of at least 4 Units. More will be added as time goes on, on topics like diffusion for audio.
 
-Each unit consists of some theory and background alongisde one or more hands-on notebooks. Some units will also contain suggested projects and we'll have competitions and swag for the best pipelines and demos (more details TDB).
+Each unit consists of some theory and background alongside one or more hands-on notebooks. Some units will also contain suggested projects and we'll have competitions and swag for the best pipelines and demos (more details TDB).
 
 [![License](https://img.shields.io/static/v1?label=License&message=Apache&color=<Yellow>)](https://github.com/dhakalnirajan/Diffusion-Model-Course/blob/main/License) &nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/dhakalnirajan/Diffusion-Model-Course.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/dhakalnirajan/Diffusion-Model-Course) &nbsp;
